@@ -1,0 +1,28 @@
+{
+  "name": "typhoon",
+  "version": "1.0.0",
+  "description": "Serverless order solution using AWS",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sam Nydahl",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "source-map-support": "^0.5.19"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.10.5",
+    "@babel/plugin-transform-runtime": "^7.10.5",
+    "@babel/preset-env": "^7.10.4",
+    "aws-sdk": "^2.815.0",
+    "babel-loader": "^8.1.0",
+    "babel-plugin-source-map-support": "^2.1.2",
+    "serverless": "^1.77.1",
+    "serverless-offline": "^6.5.0",
+    "serverless-webpack": "^5.3",
+    "webpack": "^4.44.1",
+    "webpack-node-externals": "^2.5.0"
+  }
+}

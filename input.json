@@ -1,0 +1,22 @@
+{
+    "orderId": "39584303",
+    "customerId": "000000238",
+    "shippingAddress": {
+        "street": "Sankt Eriksgatan",
+        "streetNumber": 48,
+        "postalCode": 11234,
+        "City": "Stockholm"
+    },
+    "products": [
+        {
+            "productId": "1172810_1_Style",
+            "price": 2499,
+            "currency": "SEK"
+        },
+        {
+            "productId": "1163781_1_Style",
+            "price": 899,
+            "currency": "SEK"
+        }
+    ]
+}

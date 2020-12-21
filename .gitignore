@@ -1,0 +1,11 @@
+node_modules
+jspm_packages
+
+.serverless
+
+.webpack
+
+*.log
+
+node_modules/
+.npm
